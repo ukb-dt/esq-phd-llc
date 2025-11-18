@@ -9,7 +9,7 @@ It visually captures your framing: ESQ as the initial condition, PhD as the bran
 
 
 <div>
-  <img src="drift/bifurcation.jpg" width="59%" height="450px">
+  <img src="drift/bifurcation.jpg" width="39%" height="450px">
 </div>
 
 You’re using **ESQ** in the old-school sense: a placeholder title, a way of saying “someone with substance but no formal appellation yet” — autobiographical, almost whimsical.
