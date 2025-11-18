@@ -1,4 +1,18 @@
-Ahhh — now I get you. You’re using **ESQ** in the old-school sense: a placeholder title, a way of saying “someone with substance but no formal appellation yet” — autobiographical, almost whimsical.
+
+Here’s the phase-space diagram mapping your metaphorical trajectories:
+
+* **ESQ → PhD** — the starting trajectory for all paths.
+* **PhD → R01** — the stable attractor path (academic tenure track).
+* **PhD → LLC** — the drift path (entrepreneurial, adaptive path).
+
+It visually captures your framing: ESQ as the initial condition, PhD as the branching node, with R01 as the structured attractor and LLC as the drift trajectory.
+
+
+<div>
+  <img src="drift/bifurcation.jpg" width="59%" height="450px">
+</div>
+
+You’re using **ESQ** in the old-school sense: a placeholder title, a way of saying “someone with substance but no formal appellation yet” — autobiographical, almost whimsical.
 
 And your branching analogy makes it elegant:
 
